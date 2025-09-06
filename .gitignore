@@ -1,0 +1,18 @@
+# Compiled executables
+tictactoe
+kosaraju
+kosaraju_examples
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
